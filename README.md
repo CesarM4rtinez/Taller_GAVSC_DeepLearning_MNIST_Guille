@@ -1,0 +1,1 @@
+# Taller_GAVSC_DeepLearning_MNIST_Guille
